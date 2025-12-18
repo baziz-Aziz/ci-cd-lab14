@@ -1,0 +1,6 @@
+def sudef add(a, b):
+    return a + b
+
+if __name__ == "__main__":
+    print(add(2, 3))
+[A[A[A[A[A[C[C[C[C[C[Csub[B[C[C[C[C[C[C[-[B[B[B[8[B[A[C[C[4[D[D[D[Dsub[C[C[C[C[C[C[C[C[C
